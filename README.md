@@ -10,7 +10,7 @@ A 360 Intelligent Experiences workshop around using AI + Mobile Apps to deliver 
 
 ## Authors
 
-|      ![Photo](Resources/mohamed-saif.png)      |    ![Photo](Resources/petra-korica.jpg)      |
+|      ![Photo](resources/mohamed-saif.jpg)      |    ![Photo](resources/petra-korica.jpg)      |
 |:----------------------------------------------:|:--------------------------------------------:|
 |                 **Mohamed Saif**               |            **Petra Korica**                  |
 |     [GitHub](https://github.com/mohamedsaif)   | [GitHub](https://github.com/)                |
@@ -18,7 +18,7 @@ A 360 Intelligent Experiences workshop around using AI + Mobile Apps to deliver 
 |         [Blog](http://blog.mohamedsaif.com)    |         [Blog](https://microsoft.com/)       |
 
 
-|        ![Photo](Resources/sherif-elmahdi.jpg)       |
+|        ![Photo](resources/sherif-elmahdi.jpg)       |
 |:----------------------------------------------:|
 |                 **Sherif El Mahdi**            |
 |  [GitHub](https://github.com/SherifElMahdi)    |
