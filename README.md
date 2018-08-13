@@ -1,7 +1,61 @@
 ﻿# Intelligent Retail
 A 360 Intelligent Experiences workshop around using AI + Mobile Apps to deliver advance intelligent that help auditor and store managers to evaluate Retail market product stocking compliance
 
+# Workshop Requirements
+
+## Technical Requirements
+
+1.	Azure Subscription 
+2.	Mac or PC 
+3.	Visual Studio (for PC or for Mac) with Xamarin & latest updates installed (Link)
+4.	Postman (Link)
+5.	Python with Jupyter notebooks (required for bonus tracks) (Link)
+
+## Target Audience
+
+1.	Data Scientists  
+2.	Application Developers 
+3.	Development Leads/AI Leads
+
+> **NOTE:** We highly recommend you setup and configure your system *before* attending one of the guided sessions. Although we’ve allowed an hour in the morning to assist in trouble shooting configurations, we won’t have time to do a fresh installation.
+
+## Objectives 
+
+1.	Demonstrate AI platform capabilities and options
+2.	Show case the ease of infusing AI in the dev cycle for building AI-models,  new apps and innovating existing ones 
+3.	Demonstrate unmatched time to value through leveraging Microsoft AI Platform
+4.	Deliver omnichannel intelligent apps with a consistent and outstanding end user experience
+
+## Proposed Agenda
+
+
+
+#	Topic	                                    Duration
+0	Registration & Setup	                    60
+1	Intelligent Experiences Today and Tomorrow	40
+2	Intelligent Retail - Workshop Overview	    20
+ 	Break	                                    10
+1	Solution White-boarding	                    30
+2	Computer Vision – Options	                30
+3	Computer Vision - Cognitive Services Setup	60
+	Lunch	                                    60
+4	Computer Vision - Deployment	            60
+5	Transformation in Real Life - Smart Shop App - Bring Intelligence to Mobile	60
+ 	Break	                                    15
+6	Conclusion and Next Steps	                30
+7	Q & A	                                    30
+ 	Bonus Workshop Material (Take home tasks)	 NA
+1	Bonus 1 - Policy Recognition with Resnet & Transfer Learning	 
+2	Bonus 2 - Policy Detection with Faster RCNN	 
+3	Bonus 3 - Mobile DevOps for accelerated innovation	 
+4	Bonus 4 - Custom Model Deployment 	 
+
+
 # Backround
+
+## Contoso Smart Shop
+
+### Overview
 <table>
     <tr>
         <td>
