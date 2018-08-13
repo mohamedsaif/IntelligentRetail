@@ -43,7 +43,7 @@ A 360 Intelligent Experiences workshop around using AI + Mobile Apps to deliver 
 |:----------------------------------------------:|:--------------------------------------------:|:----------------------------------------------:|
 |                 **Mohamed Saif**               |            **Petra Korica**                  |                 **Sherif El Mahdi**            |
 |     [GitHub](https://github.com/mohamedsaif)   | [GitHub](https://github.com/)                |  [GitHub](https://github.com/SherifElMahdi)    |
-|  [Twitter](https://twitter.com/mohamedsaif101) | [Twitter](https://twitter.com/robinmanuelt)  |        [Twitter](https://twitter.com/)         |
+|  [Twitter](https://twitter.com/mohamedsaif101) | [Twitter](https://twitter.com/)              |        [Twitter](https://twitter.com/)         |
 |         [Blog](http://blog.mohamedsaif.com)    |         [Blog](https://microsoft.com/)       |          [Blog](https://microsoft.com)         |
 
 
